@@ -1,0 +1,9 @@
+# Core dependencies for LangGraph CS Orchestrator
+langchain>=0.3.0
+langgraph>=0.1.0
+langchain-openai>=0.2.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+psycopg2-binary>=2.9.0
+ipywidgets>=8.1.0
